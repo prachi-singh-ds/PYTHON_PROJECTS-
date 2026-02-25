@@ -1,0 +1,100 @@
+﻿date,hour ,appliance,units_consumed,temperature ,weekday
+01-01-2025,0,AC,0.6,32,Wednesday
+01-01-2025,1,Fan,0.2,32,Wednesday
+01-01-2025,2,Fridge,0.1,32,Wednesday
+01-01-2025,3,Lights,0.15,32,Wednesday
+01-01-2025,4,AC,0.5,31,Wednesday
+01-01-2025,5,Fan,0.25,31,Wednesday
+01-01-2025,6,Fridge,0.12,31,Wednesday
+01-01-2025,7,Washing Machine,0.9,31,Wednesday
+01-01-2025,8,Lights,0.3,33,Wednesday
+01-01-2025,9,AC,0.8,33,Wednesday
+01-01-2025,10,Fan,0.22,33,Wednesday
+01-01-2025,11,Fridge,0.15,34,Wednesday
+01-01-2025,12,Lights,0.4,34,Wednesday
+01-01-2025,13,Washing Machine,1.1,35,Wednesday
+01-01-2025,14,AC,1.4,35,Wednesday
+01-01-2025,15,Fan,0.3,35,Wednesday
+01-01-2025,16,Lights,0.45,34,Wednesday
+01-01-2025,17,AC,1.8,34,Wednesday
+01-01-2025,18,Fan,0.35,33,Wednesday
+01-01-2025,19,Lights,0.5,32,Wednesday
+01-01-2025,20,Washing Machine,1,31,Wednesday
+01-01-2025,21,Fridge,0.12,31,Wednesday
+01-01-2025,22,Fan,0.25,30,Wednesday
+01-01-2025,23,Lights,0.4,30,Wednesday
+,,,,,
+02-01-2025,0,AC,0.7,33,Thursday
+02-01-2025,1,Fan,0.2,33,Thursday
+02-01-2025,2,Fridge,0.12,33,Thursday
+02-01-2025,3,Lights,0.2,33,Thursday
+02-01-2025,4,AC,0.6,32,Thursday
+02-01-2025,5,Fan,0.28,32,Thursday
+02-01-2025,6,Fridge,0.13,32,Thursday
+02-01-2025,7,Washing Machine,1,32,Thursday
+02-01-2025,8,Lights,0.35,34,Thursday
+02-01-2025,9,AC,0.9,34,Thursday
+02-01-2025,10,Fan,0.27,34,Thursday
+02-01-2025,11,Fridge,0.14,35,Thursday
+02-01-2025,12,Lights,0.42,35,Thursday
+02-01-2025,13,Washing Machine,1.2,36,Thursday
+02-01-2025,14,AC,1.5,36,Thursday
+02-01-2025,15,Fan,0.32,36,Thursday
+02-01-2025,16,Lights,0.48,35,Thursday
+02-01-2025,17,AC,1.9,35,Thursday
+02-01-2025,18,Fan,0.38,34,Thursday
+02-01-2025,19,Lights,0.55,33,Thursday
+02-01-2025,20,Washing Machine,1.05,32,Thursday
+02-01-2025,21,Fridge,0.12,32,Thursday
+02-01-2025,22,Fan,0.26,31,Thursday
+02-01-2025,23,Lights,0.43,31,Thursday
+,,,,,
+01-01-2025,0,AC,0.6,32,Wednesday
+01-01-2025,1,Fan,0.2,32,Wednesday
+01-01-2025,2,Fridge,0.1,32,Wednesday
+01-01-2025,3,Lights,0.15,32,Wednesday
+01-01-2025,4,AC,0.5,31,Wednesday
+01-01-2025,5,Fan,0.25,31,Wednesday
+01-01-2025,6,Fridge,0.12,31,Wednesday
+01-01-2025,7,Washing Machine,0.9,31,Wednesday
+01-01-2025,8,Lights,0.3,33,Wednesday
+01-01-2025,9,AC,0.8,33,Wednesday
+01-01-2025,10,Fan,0.22,33,Wednesday
+01-01-2025,11,Fridge,0.15,34,Wednesday
+01-01-2025,12,Lights,0.4,34,Wednesday
+01-01-2025,13,Washing Machine,1.1,35,Wednesday
+01-01-2025,14,AC,1.4,35,Wednesday
+01-01-2025,15,Fan,0.3,35,Wednesday
+01-01-2025,16,Lights,0.45,34,Wednesday
+01-01-2025,17,AC,1.8,34,Wednesday
+01-01-2025,18,Fan,0.35,33,Wednesday
+01-01-2025,19,Lights,0.5,32,Wednesday
+01-01-2025,20,Washing Machine,1,31,Wednesday
+01-01-2025,21,Fridge,0.12,31,Wednesday
+01-01-2025,22,Fan,0.25,30,Wednesday
+01-01-2025,23,Lights,0.4,30,Wednesday
+,,,,,
+02-01-2025,0,AC,0.7,33,Thursday
+02-01-2025,1,Fan,0.2,33,Thursday
+02-01-2025,2,Fridge,0.12,33,Thursday
+02-01-2025,3,Lights,0.2,33,Thursday
+02-01-2025,4,AC,0.6,32,Thursday
+02-01-2025,5,Fan,0.28,32,Thursday
+02-01-2025,6,Fridge,0.13,32,Thursday
+02-01-2025,7,Washing Machine,1,32,Thursday
+02-01-2025,8,Lights,0.35,34,Thursday
+02-01-2025,9,AC,0.9,34,Thursday
+02-01-2025,10,Fan,0.27,34,Thursday
+02-01-2025,11,Fridge,0.14,35,Thursday
+02-01-2025,12,Lights,0.42,35,Thursday
+02-01-2025,13,Washing Machine,1.2,36,Thursday
+02-01-2025,14,AC,1.5,36,Thursday
+02-01-2025,15,Fan,0.32,36,Thursday
+02-01-2025,16,Lights,0.48,35,Thursday
+02-01-2025,17,AC,1.9,35,Thursday
+,,,,,
+01-01-2025,0,AC,0.6,32,Wednesday
+01-01-2025,1,Fan,0.2,32,Wednesday
+01-01-2025,2,Fridge,0.1,32,Wednesday
+01-01-2025,3,Lights,0.15,32,Wednesday
+01-01-2025,4,AC,0.5,31,Wednesday
