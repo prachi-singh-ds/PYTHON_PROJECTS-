@@ -1,9 +1,11 @@
 ⚡ Electricity Consumption Analysis
 
+
 📌 Project Overview
 
 This project analyzes electricity consumption patterns using Python (Pandas, NumPy, Matplotlib, Seaborn).
 The goal is to understand monthly usage, weekday vs weekend behavior, and overall consumption trends.
+
 
 This analysis helps in:
 
@@ -11,6 +13,7 @@ This analysis helps in:
 💡 Energy Optimization
 🧾 Billing Prediction
 🏠 Household Consumption Insights
+
 
 🗂️ Project Structure
 Pandas_Project/
@@ -30,6 +33,7 @@ Pandas_Project/
 │
 └── README.md
 
+
 🔧 Tools & Libraries Used
 
 - Python
@@ -39,6 +43,7 @@ Pandas_Project/
 - Seaborn
 - Jupyter Notebook
   
+
 
 📊 Analysis Performed
 ✔ Monthly Average Consumption
@@ -55,6 +60,7 @@ Identifying peak usage patterns.
 
 ✔ Insights Summary
 A final professional overview of consumption behavior.
+
 
 
 🖼️ Project Visualizations (Screenshots)
@@ -76,6 +82,7 @@ These insights are helpful for:
 Billing prediction
 Load forecasting
 Energy optimization
+
 
 🏁 Conclusion
 
