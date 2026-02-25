@@ -88,3 +88,9 @@ Energy optimization
 
 This project provides a clear and detailed analysis of household electricity consumption.
 The insights help understand usage behavior, peak times, and trends that are useful for future forecasting and consumption planning.
+
+
+🔗🔖 Tags 
+
+Python Pandas Data Analysis Electricity Consumption
+Matplotlib Seaborn EDA Data Science Project Beginner Friendly         
