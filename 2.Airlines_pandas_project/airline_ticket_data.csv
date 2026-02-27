@@ -1,0 +1,101 @@
+﻿date,airline,source,destination,class,duration_hrs,stops,booking_days_before,price
+2024-11-23,Indigo,Delhi,Hyderabad,Economy,1.6,Non-stop,87,4622
+2024-10-06,Indigo,Chennai,Hyderabad,Economy,1.1,Non-stop,30,4656
+2024-09-15,Vistara,Delhi,Kolkata,Economy,2.8,1-stop,29,6550
+2024-08-17,Vistara,Bangalore,Delhi,Economy,2.7,1-stop,36,6450
+2024-03-20,Indigo,Bangalore,Delhi,Economy,1.9,1-stop,45,4520
+2024-11-05,Air India,Delhi,Chennai,Economy,3.4,1-stop,11,6577
+2024-10-09,Air India,Kolkata,Chennai,Business,2.4,Non-stop,6,22914
+2024-12-04,Indigo,Bangalore,Delhi,Economy,3.2,1-stop,36,7228
+2024-08-20,Vistara,Bangalore,Mumbai,Business,1.9,1-stop,90,12712
+2024-12-15,Vistara,Delhi,Kolkata,Economy,2.3,Non-stop,21,9438
+2024-08-24,Air India,Bangalore,Kolkata,Economy,2.7,Non-stop,30,7120
+2024-01-17,Air India,Hyderabad,Bangalore,Economy,1.5,1-stop,28,4830
+2024-12-01,Air India,Hyderabad,Chennai,Economy,1.7,Non-stop,72,7039
+2024-10-02,Air India,Kolkata,Chennai,Business,3.2,1-stop,47,14386
+2024-04-22,Indigo,Chennai,Hyderabad,Economy,2.9,Non-stop,20,8299
+2024-11-17,Indigo,Kolkata,Hyderabad,Economy,2,1-stop,68,4140
+2024-05-08,Vistara,Delhi,Mumbai,Business,2.9,1-stop,15,16625
+2024-05-30,Air India,Mumbai,Chennai,Economy,3.4,1-stop,65,5920
+2024-04-01,Vistara,Delhi,Hyderabad,Economy,1.4,Non-stop,70,7230
+2024-09-28,Indigo,Chennai,Bangalore,Business,1,1-stop,40,9500
+2024-05-02,Indigo,Mumbai,Kolkata,Economy,1.2,1-stop,9,5346
+2024-09-29,Indigo,Mumbai,Chennai,Economy,1.7,1-stop,28,4360
+2024-10-03,Vistara,Kolkata,Mumbai,Business,2,1-stop,57,12937
+2024-09-21,Air India,Delhi,Bangalore,Economy,1.2,Non-stop,76,4918
+2024-10-10,Indigo,Chennai,Mumbai,Economy,1.2,Non-stop,30,4752
+2024-02-04,Indigo,Bangalore,Delhi,Economy,1.7,1-stop,28,4360
+2024-10-03,Indigo,Kolkata,Chennai,Business,1.6,1-stop,53,9630
+2024-04-07,Indigo,Delhi,Chennai,Business,2.1,1-stop,7,20533
+2024-12-10,Vistara,Kolkata,Delhi,Economy,2,1-stop,14,7475
+2024-05-07,Indigo,Mumbai,Kolkata,Business,1.4,Non-stop,36,12360
+2024-08-24,Indigo,Delhi,Chennai,Economy,1.1,Non-stop,12,4656
+2024-05-01,Indigo,Hyderabad,Chennai,Business,1.5,1-stop,8,14175
+2024-03-25,Air India,Delhi,Chennai,Business,3.3,1-stop,37,16214
+2024-08-04,Vistara,Kolkata,Chennai,Business,1.4,1-stop,28,12875
+2024-01-30,Vistara,Kolkata,Chennai,Economy,2.9,Non-stop,7,10773
+2024-10-26,Air India,Chennai,Kolkata,Economy,1.1,Non-stop,24,5354
+2024-02-05,Vistara,Delhi,Bangalore,Business,1.3,Non-stop,75,13635
+2024-10-31,Indigo,Chennai,Delhi,Business,2.6,1-stop,34,12700
+2024-04-14,Vistara,Kolkata,Bangalore,Economy,1.7,Non-stop,86,7651
+2024-11-26,Air India,Hyderabad,Bangalore,Economy,1,Non-stop,10,5244
+2024-10-02,Indigo,Chennai,Bangalore,Economy,3.3,Non-stop,32,6768
+2024-07-08,Air India,Mumbai,Chennai,Business,2.5,Non-stop,86,15525
+2024-10-10,Air India,Kolkata,Delhi,Economy,1.7,Non-stop,71,5415
+2024-03-20,Air India,Bangalore,Kolkata,Economy,2.8,Non-stop,88,6508
+2024-11-20,Air India,Chennai,Hyderabad,Business,3.3,Non-stop,12,19457
+2024-11-20,Air India,Bangalore,Delhi,Economy,1.8,Non-stop,82,5514
+2024-05-14,Indigo,Kolkata,Hyderabad,Business,2.4,Non-stop,10,14760
+2024-12-19,Indigo,Chennai,Delhi,Business,2.5,Non-stop,56,17550
+2024-03-06,Indigo,Bangalore,Hyderabad,Economy,3.2,Non-stop,88,6004
+2024-05-07,Vistara,Delhi,Hyderabad,Business,3.4,Non-stop,31,21450
+2024-03-24,Indigo,Hyderabad,Delhi,Economy,2.8,1-stop,53,4716
+2024-12-08,Vistara,Mumbai,Hyderabad,Economy,3,Non-stop,49,9477
+2024-01-20,Air India,Mumbai,Bangalore,Business,1.9,Non-stop,29,15594
+2024-01-13,Vistara,Mumbai,Chennai,Business,1.7,Non-stop,36,16350
+2024-06-28,Vistara,Chennai,Hyderabad,Business,3.3,Non-stop,34,21150
+2024-04-01,Vistara,Bangalore,Delhi,Economy,2.5,1-stop,41,8125
+2024-08-11,Vistara,Chennai,Delhi,Business,3.2,Non-stop,33,20850
+2024-01-23,Vistara,Hyderabad,Delhi,Economy,1.9,Non-stop,86,6102
+2024-06-18,Vistara,Bangalore,Delhi,Business,2.3,1-stop,42,15125
+2024-07-25,Vistara,Bangalore,Kolkata,Economy,1.5,1-stop,87,4725
+2024-03-30,Vistara,Chennai,Bangalore,Business,2.4,Non-stop,39,18450
+2024-05-26,Indigo,Hyderabad,Kolkata,Business,2.2,1-stop,87,10710
+2024-04-19,Vistara,Hyderabad,Mumbai,Economy,1.7,1-stop,12,7085
+2024-04-30,Vistara,Bangalore,Mumbai,Economy,1.4,Non-stop,32,8034
+2024-08-31,Vistara,Delhi,Chennai,Business,3.2,Non-stop,90,18765
+2024-07-15,Air India,Hyderabad,Mumbai,Economy,2.6,Non-stop,14,7010
+2024-08-05,Indigo,Mumbai,Kolkata,Business,1.1,Non-stop,16,11640
+2024-08-21,Indigo,Hyderabad,Kolkata,Business,3.4,1-stop,79,12870
+2024-09-15,Air India,Chennai,Hyderabad,Economy,2.9,1-stop,58,5506
+2024-05-12,Indigo,Kolkata,Bangalore,Business,2.6,1-stop,57,11430
+2024-02-09,Vistara,Bangalore,Mumbai,Business,1.8,Non-stop,18,16650
+2024-03-18,Indigo,Hyderabad,Mumbai,Economy,1.2,1-stop,43,3960
+2024-10-04,Air India,Hyderabad,Delhi,Economy,3.1,1-stop,75,5671
+2024-12-22,Indigo,Chennai,Hyderabad,Business,1,1-stop,39,12350
+2024-07-18,Air India,Chennai,Kolkata,Economy,2.2,1-stop,56,4926
+2024-09-05,Indigo,Hyderabad,Bangalore,Business,2.8,1-stop,17,13100
+2024-11-14,Vistara,Delhi,Chennai,Economy,1.2,1-stop,18,4950
+2024-08-24,Indigo,Delhi,Hyderabad,Business,1.8,1-stop,42,11100
+2024-06-21,Air India,Bangalore,Chennai,Business,3.1,1-stop,3,21269
+2024-10-03,Indigo,Bangalore,Mumbai,Economy,3,Non-stop,4,8748
+2024-05-06,Indigo,Delhi,Kolkata,Economy,1.6,1-stop,86,3852
+2024-02-28,Vistara,Mumbai,Chennai,Business,2.9,Non-stop,78,17955
+2024-11-06,Vistara,Kolkata,Delhi,Economy,3.4,Non-stop,75,7722
+2024-01-14,Air India,Chennai,Hyderabad,Business,3.4,Non-stop,10,19733
+2024-10-30,Vistara,Kolkata,Mumbai,Economy,2.7,1-stop,88,5805
+2024-11-03,Indigo,Chennai,Delhi,Business,2.3,1-stop,9,16335
+2024-09-16,Vistara,Bangalore,Delhi,Business,3.1,Non-stop,56,18495
+2024-07-04,Vistara,Hyderabad,Mumbai,Business,1.4,1-stop,79,11587
+2024-10-02,Air India,Hyderabad,Chennai,Business,1.8,Non-stop,12,15318
+2024-05-22,Air India,Mumbai,Chennai,Business,1.8,1-stop,42,12765
+2024-04-03,Air India,Mumbai,Hyderabad,Business,1.9,1-stop,72,15204
+2024-01-06,Vistara,Mumbai,Delhi,Economy,2.8,1-stop,72,5895
+2024-05-03,Vistara,Hyderabad,Chennai,Business,3,Non-stop,38,20250
+2024-04-23,Air India,Kolkata,Mumbai,Business,2.7,1-stop,61,17356
+2024-10-10,Vistara,Bangalore,Chennai,Business,1.9,1-stop,35,14125
+2024-06-05,Air India,Mumbai,Delhi,Economy,1.8,Non-stop,25,6127
+2024-04-20,Vistara,Hyderabad,Bangalore,Business,3.5,Non-stop,38,28275
+2024-04-26,Air India,Mumbai,Hyderabad,Economy,2.8,Non-stop,36,9400
+2024-01-24,Indigo,Chennai,Bangalore,Economy,2.6,1-stop,14,5080
+2024-01-07,Vistara,Bangalore,Chennai,Business,2.1,Non-stop,7,23692
