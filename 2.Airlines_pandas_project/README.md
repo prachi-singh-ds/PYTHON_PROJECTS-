@@ -90,7 +90,14 @@ How early booking lowers ticket cost.
 
 ---
 
+
+
+All generated plots are stored in the `screenshots/` directory.  
+They include:
+
+
 ## 🖼️ **📷 Screenshot 
+
 price_distribution.png
 airline_vs_avg_price.png
 class_vs_price.png
