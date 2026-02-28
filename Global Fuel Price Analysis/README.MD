@@ -2,6 +2,7 @@
 
 Data Science | Energy Analytics | Matplotlib | Pandas | EDA
 
+
 📌 Project Overview
 
 This project analyzes global fuel pricing patterns across multiple countries using advanced data visualization and exploratory data analysis (EDA).
@@ -28,6 +29,8 @@ Which countries have higher or lower fuel costs
 How different fuel types behave globally
 
 How seasonal and volatility patterns emerge
+
+
 
 🎯 Project Objectives
 
@@ -163,6 +166,7 @@ month                                                   	Auto-generated
 year                                                     	Auto-generated
 
 
+
 🏢 Business Value of This Project
 
 This project demonstrates your ability to:
@@ -225,5 +229,4 @@ This README is:
 ✔ Clean & structured
 ✔ Easy to understand
 ✔ Explains the whole project without opening the notebook
-
 
