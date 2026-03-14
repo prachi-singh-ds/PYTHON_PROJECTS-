@@ -1,0 +1,201 @@
+﻿transaction_id,customer_id,transaction_type,payment_method,device_type,browser,transaction_amount,transaction_hour,transaction_day,location_country,is_foreign_transaction,previous_fraud_flag,customer_account_age_days,num_prev_transactions,avg_transaction_amount,ip_address_risk_score,merchant_category,transaction_status,is_weekend,fraud_flag
+T100000,C1103,cash_out,Wallet,Mobile,Opera,1894.83,2,Sun,India,1,0,406,189,287.29,0.305,Travel,Failed,0,0
+T100001,C1093,debit,Net Banking,Mobile,Edge,310.94,17,Mon,Germany,0,0,634,353,1205.94,0.213,Travel,Success,0,0
+T100002,C1015,transfer,Credit Card,Tablet,Safari,1174.53,4,Fri,Germany,0,0,114,184,692.7,0.033,Food,Failed,0,0
+T100003,C1107,payment,UPI,Desktop,Edge,1014.25,11,Wed,UK,1,0,201,3,729.62,0.304,Food,Success,0,0
+T100004,C1072,debit,Net Banking,Tablet,Safari,1224.85,11,Wed,Singapore,0,0,26,191,208.89,0.653,E-commerce,Success,1,0
+T100005,C1021,debit,Debit Card,Mobile,Opera,41.13,18,Tue,USA,0,0,1153,118,130.1,0.938,Travel,Success,0,0
+T100006,C1103,payment,Net Banking,Mobile,Safari,1744.89,5,Thu,Canada,0,0,402,19,1094.63,0.871,Gaming,Failed,1,0
+T100007,C1122,transfer,Net Banking,Mobile,Firefox,1864.58,1,Sun,UK,0,0,434,23,749.73,0.766,Travel,Success,0,0
+T100008,C1075,payment,Credit Card,Mobile,Firefox,1132.44,11,Sat,Germany,0,0,138,413,660.91,0.788,E-commerce,Success,1,0
+T100009,C1088,debit,Debit Card,Mobile,Firefox,1394.82,18,Wed,Canada,0,0,1163,30,1096.97,0.665,Fashion,Success,1,0
+T100010,C1117,purchase,Net Banking,Mobile,Firefox,1845.39,4,Fri,Germany,1,0,581,295,1150.61,0.26,Food,Success,1,0
+T100011,C1100,purchase,UPI,Mobile,Edge,1415.94,11,Tue,Canada,0,0,1593,108,246.77,0.907,Food,Success,1,1
+T100012,C1104,cash_out,UPI,Desktop,Opera,309.32,16,Tue,USA,0,1,38,367,919.24,0.671,E-commerce,Success,0,0
+T100013,C1131,payment,Wallet,Tablet,Safari,1154.7,16,Sat,UK,0,0,1130,281,211.68,0.56,Gaming,Success,0,0
+T100014,C1053,payment,Debit Card,Mobile,Safari,1215.4,9,Fri,Canada,0,0,1043,128,1129.55,0.111,Food,Success,1,0
+T100015,C1002,cash_out,Debit Card,Desktop,Firefox,851.14,22,Thu,Singapore,0,0,251,229,988.86,0.447,Electronics,Success,0,0
+T100016,C1088,cash_out,Wallet,Desktop,Firefox,1474.21,16,Fri,India,1,0,1859,111,1435.36,0.46,Food,Success,0,0
+T100017,C1038,cash_out,Net Banking,Tablet,Chrome,1869.06,14,Thu,Singapore,0,0,1989,136,112.75,0.865,Electronics,Success,1,0
+T100018,C1130,debit,Debit Card,Mobile,Opera,1851.51,11,Fri,Singapore,0,0,241,362,95.01,0.547,E-commerce,Pending,0,0
+T100019,C1021,payment,UPI,Tablet,Edge,904.42,15,Fri,India,0,1,798,186,430.46,0.38,E-commerce,Success,0,0
+T100020,C1058,debit,UPI,Mobile,Safari,230.91,23,Mon,Singapore,0,0,1317,144,399.94,0.977,Food,Pending,0,0
+T100021,C1022,cash_out,Credit Card,Desktop,Chrome,1969.76,18,Tue,Canada,0,0,724,72,378,0.111,Travel,Success,1,0
+T100022,C1089,payment,Debit Card,Desktop,Chrome,1678.6,7,Fri,Canada,0,0,768,129,1360.32,0.423,Electronics,Success,0,0
+T100023,C1049,debit,Net Banking,Desktop,Safari,253.7,20,Sat,Canada,1,0,811,364,381.82,0.042,Gaming,Success,1,0
+T100024,C1059,debit,Wallet,Desktop,Edge,1842.08,16,Fri,India,0,0,785,261,415.21,0.74,Food,Success,0,0
+T100025,C1015,cash_out,Wallet,Tablet,Chrome,1740.44,22,Wed,Singapore,0,0,1988,3,1141.5,0.918,Gaming,Success,0,0
+T100026,C1051,payment,Net Banking,Mobile,Chrome,1040.08,4,Tue,India,0,0,735,449,680.11,0.28,Food,Success,0,0
+T100027,C1108,cash_out,Credit Card,Mobile,Opera,1184.59,21,Wed,Canada,0,0,209,388,1167.3,0.858,Travel,Success,1,1
+T100028,C1055,payment,Wallet,Tablet,Edge,801.01,15,Tue,Singapore,0,0,954,104,107.4,0.292,Travel,Success,1,0
+T100029,C1064,purchase,Debit Card,Mobile,Chrome,114.25,5,Wed,Singapore,0,0,88,483,736.48,0.911,Travel,Success,0,0
+T100030,C1131,transfer,Credit Card,Desktop,Edge,673.72,7,Fri,Germany,0,0,1946,224,60.08,0.754,Fashion,Success,1,0
+T100031,C1051,transfer,Debit Card,Mobile,Safari,1606.69,17,Fri,Germany,0,0,965,320,103.35,0.805,Travel,Success,0,0
+T100032,C1135,transfer,UPI,Desktop,Firefox,14.24,11,Mon,USA,0,0,1888,362,1360.59,0.018,E-commerce,Success,1,0
+T100033,C1021,cash_out,Credit Card,Tablet,Chrome,670.33,14,Sat,UK,0,0,865,354,217.48,0.963,E-commerce,Success,1,0
+T100034,C1073,purchase,Wallet,Mobile,Opera,799.35,8,Wed,Germany,1,0,1206,491,803.31,0.727,Fashion,Success,0,1
+T100035,C1018,payment,Credit Card,Tablet,Safari,1077.1,12,Thu,India,1,0,476,473,622.53,0.305,Electronics,Success,0,0
+T100036,C1132,debit,Credit Card,Mobile,Edge,1840.11,14,Mon,Germany,0,0,590,10,527.54,0.829,Gaming,Success,0,0
+T100037,C1089,payment,Credit Card,Desktop,Safari,695.96,9,Wed,USA,1,0,1449,405,1350.75,0.282,Food,Success,0,0
+T100038,C1060,debit,Credit Card,Tablet,Chrome,697.17,15,Wed,Singapore,0,0,949,384,42.52,0.873,Food,Success,1,0
+T100039,C1014,payment,Debit Card,Mobile,Edge,1476.31,6,Mon,USA,0,0,458,302,999.05,0.113,Fashion,Success,1,0
+T100040,C1009,purchase,UPI,Desktop,Firefox,907.17,16,Fri,Singapore,0,0,96,231,1445.46,0.704,E-commerce,Success,1,0
+T100041,C1090,debit,Net Banking,Tablet,Safari,453.09,22,Wed,Singapore,0,0,110,219,844.65,0.541,Food,Success,0,0
+T100042,C1053,cash_out,Credit Card,Tablet,Chrome,907.62,20,Fri,UK,0,0,1041,411,1405.87,0.097,E-commerce,Success,0,0
+T100043,C1130,payment,Wallet,Mobile,Opera,286.01,21,Mon,Germany,1,0,854,66,87.86,0.242,Electronics,Success,1,0
+T100044,C1084,payment,Credit Card,Mobile,Edge,356.89,6,Fri,India,0,1,1233,425,634,0.012,Gaming,Failed,0,0
+T100045,C1092,debit,Wallet,Mobile,Safari,999.24,13,Tue,India,0,0,1538,112,397.64,0.469,Electronics,Success,1,0
+T100046,C1111,cash_out,Debit Card,Desktop,Safari,840.76,14,Thu,Canada,0,0,96,13,1098.92,0.301,Fashion,Pending,1,0
+T100047,C1008,cash_out,Wallet,Mobile,Firefox,1830.12,20,Sun,Singapore,1,0,52,393,1472.13,0.598,Travel,Success,1,0
+T100048,C1035,purchase,Net Banking,Tablet,Firefox,727.98,6,Wed,India,0,0,1418,420,392.23,0.297,Travel,Success,1,0
+T100049,C1081,cash_out,UPI,Tablet,Opera,1163.27,8,Sat,UK,0,0,1654,86,984.72,0.3,Travel,Success,1,0
+T100050,C1050,cash_out,Wallet,Mobile,Opera,1266.37,18,Thu,Singapore,0,0,1468,234,305.17,0.743,Electronics,Success,0,0
+T100051,C1104,cash_out,Wallet,Mobile,Chrome,31.12,15,Sun,UK,0,1,417,90,852.34,0.048,Food,Success,0,0
+T100052,C1132,transfer,UPI,Tablet,Chrome,1328.76,7,Fri,India,1,0,1516,314,701.26,0.903,Gaming,Success,0,0
+T100053,C1002,purchase,Net Banking,Desktop,Opera,360.18,17,Wed,India,1,0,673,54,1458.29,0.852,Travel,Success,1,1
+T100054,C1134,payment,Credit Card,Mobile,Opera,1922.34,22,Fri,Canada,0,0,1050,12,916.71,0.668,Fashion,Success,1,0
+T100055,C1054,debit,Wallet,Mobile,Edge,301.58,17,Tue,India,1,0,1678,209,530.76,0.593,Fashion,Success,1,0
+T100056,C1106,payment,UPI,Tablet,Firefox,832.18,19,Mon,Singapore,0,0,157,462,180,0.892,Travel,Success,1,0
+T100057,C1004,purchase,Debit Card,Mobile,Chrome,175.27,6,Wed,Singapore,1,0,286,14,235.36,0.185,Travel,Success,0,0
+T100058,C1054,debit,UPI,Desktop,Firefox,1993.76,2,Sun,Singapore,0,0,241,121,345.72,0.079,Gaming,Success,0,0
+T100059,C1146,purchase,Debit Card,Tablet,Firefox,1006.88,17,Sun,Canada,0,0,1859,418,383.94,0.24,Travel,Success,1,0
+T100060,C1044,cash_out,Net Banking,Mobile,Opera,1192.79,9,Tue,Canada,0,0,1960,437,1277.42,0.795,Gaming,Failed,1,0
+T100061,C1014,debit,Credit Card,Tablet,Edge,138.82,6,Tue,India,0,0,375,377,846.22,0.035,Fashion,Success,1,0
+T100062,C1095,cash_out,UPI,Mobile,Safari,1501.17,16,Wed,USA,0,1,1261,20,789.85,0.583,Travel,Failed,0,1
+T100063,C1048,payment,Wallet,Mobile,Edge,423.76,13,Fri,USA,0,0,1684,75,181.01,0.995,Electronics,Success,0,0
+T100064,C1015,payment,Net Banking,Mobile,Edge,1796.62,23,Sat,Canada,0,0,445,400,1291.61,0.856,Electronics,Success,0,0
+T100065,C1040,debit,UPI,Desktop,Firefox,414.25,2,Sun,India,0,0,408,243,1086.99,0.521,Fashion,Success,1,0
+T100066,C1082,debit,Wallet,Desktop,Edge,385.42,11,Sun,USA,0,1,1244,223,110.83,0.064,Gaming,Success,1,0
+T100067,C1111,purchase,UPI,Tablet,Chrome,77.92,12,Tue,India,0,1,1424,70,1064.67,0.831,Electronics,Pending,0,0
+T100068,C1053,purchase,Debit Card,Mobile,Firefox,946.77,1,Thu,India,1,0,508,312,819.87,0.599,Gaming,Success,1,0
+T100069,C1024,cash_out,UPI,Mobile,Chrome,1131.86,2,Tue,India,0,0,549,211,131.77,0.115,Electronics,Success,0,0
+T100070,C1124,debit,UPI,Desktop,Safari,136.09,4,Sat,Germany,0,0,572,101,692.87,0.094,Electronics,Success,1,0
+T100071,C1041,payment,UPI,Mobile,Firefox,1552.18,10,Fri,Singapore,0,0,1524,186,732.2,0.91,Gaming,Success,0,0
+T100072,C1015,purchase,Net Banking,Desktop,Safari,909.31,7,Fri,India,1,0,451,132,257,0.669,Food,Failed,1,0
+T100073,C1045,purchase,UPI,Mobile,Firefox,1051.16,22,Thu,Germany,0,0,1294,111,1419.09,0.829,Electronics,Success,0,0
+T100074,C1065,payment,Wallet,Tablet,Opera,884.32,22,Sun,Canada,0,0,782,381,1276.46,0.879,Travel,Success,0,0
+T100075,C1089,purchase,Debit Card,Mobile,Edge,804.52,11,Tue,USA,1,0,359,132,1006.84,0.572,Fashion,Success,0,0
+T100076,C1071,cash_out,Debit Card,Mobile,Opera,1121.48,6,Fri,Singapore,1,0,1385,20,698.82,0.517,Food,Success,0,1
+T100077,C1009,debit,UPI,Desktop,Safari,314.7,14,Sat,USA,0,0,529,394,623.53,0.43,Gaming,Success,0,0
+T100078,C1088,payment,Net Banking,Mobile,Edge,367.95,23,Wed,Singapore,0,0,1353,24,979.95,0.317,Food,Success,0,0
+T100079,C1129,debit,Net Banking,Mobile,Firefox,1724.26,16,Mon,USA,0,0,147,227,822.69,0.435,E-commerce,Success,1,0
+T100080,C1136,purchase,Wallet,Desktop,Edge,1892.5,3,Mon,Singapore,1,0,1583,154,102.79,0.774,E-commerce,Success,1,0
+T100081,C1063,purchase,UPI,Tablet,Chrome,749.75,21,Mon,USA,0,0,1656,293,773.63,0.602,Electronics,Success,1,0
+T100082,C1139,payment,Debit Card,Tablet,Edge,545.14,12,Sun,USA,0,0,1001,230,1211.54,0.893,Electronics,Success,0,0
+T100083,C1081,cash_out,Net Banking,Desktop,Chrome,1289.78,17,Tue,USA,1,1,377,469,694.27,0.443,Travel,Success,0,0
+T100084,C1136,transfer,UPI,Desktop,Edge,820.42,0,Thu,USA,0,0,1253,310,87.42,0.607,Fashion,Success,1,0
+T100085,C1033,payment,Net Banking,Desktop,Chrome,55.65,15,Fri,Canada,0,0,1370,488,1181.55,0.631,Food,Success,0,0
+T100086,C1123,transfer,Net Banking,Desktop,Safari,316.52,12,Wed,India,0,0,1256,359,310.03,0.592,E-commerce,Success,0,0
+T100087,C1005,transfer,Debit Card,Desktop,Opera,1433.36,9,Sat,UK,0,0,1681,405,395.35,0.703,Electronics,Success,0,0
+T100088,C1041,cash_out,Credit Card,Tablet,Firefox,1319.55,11,Wed,Germany,0,0,1801,202,255.41,0.237,Fashion,Success,0,0
+T100089,C1028,transfer,Wallet,Tablet,Edge,59.06,1,Sat,UK,0,0,369,38,502.02,0.512,Food,Success,0,0
+T100090,C1135,transfer,Wallet,Desktop,Opera,447.83,22,Sun,UK,0,1,930,430,1137.56,0.104,Electronics,Success,1,0
+T100091,C1072,cash_out,Debit Card,Mobile,Firefox,465.99,2,Tue,Singapore,0,0,338,260,783.88,0.385,Electronics,Success,1,0
+T100092,C1012,transfer,Net Banking,Desktop,Firefox,1345.43,9,Mon,India,1,1,971,188,315.27,0.488,E-commerce,Success,1,0
+T100093,C1033,transfer,UPI,Mobile,Chrome,44.32,1,Tue,Singapore,0,0,472,57,1317.97,0.652,E-commerce,Success,1,0
+T100094,C1048,transfer,Net Banking,Desktop,Safari,212.7,22,Sun,India,1,0,955,429,1320.58,0.951,Electronics,Success,1,0
+T100095,C1062,payment,Debit Card,Desktop,Safari,1600.83,12,Thu,India,0,1,972,20,1307.16,0.601,Gaming,Success,0,0
+T100096,C1037,payment,Wallet,Tablet,Opera,361.2,12,Thu,USA,1,0,1594,273,365.81,0.744,Electronics,Success,0,0
+T100097,C1099,payment,Net Banking,Mobile,Safari,1307.23,17,Sun,Canada,0,0,1837,119,682.35,0.506,Fashion,Success,0,1
+T100098,C1104,cash_out,Wallet,Mobile,Edge,480.17,2,Sat,USA,0,0,1415,71,1477.63,0.634,Electronics,Success,0,0
+T100099,C1035,purchase,UPI,Tablet,Safari,203.39,6,Fri,Canada,0,0,845,4,1160.3,0.071,Travel,Success,1,0
+T100100,C1101,transfer,Wallet,Tablet,Opera,490.13,13,Fri,Singapore,1,0,1623,221,50.48,0.254,Travel,Success,1,0
+T100101,C1131,transfer,Wallet,Tablet,Safari,1445.92,19,Sat,Canada,0,0,1650,14,107.15,0.362,Travel,Success,1,0
+T100102,C1001,cash_out,Credit Card,Tablet,Edge,1712.11,16,Thu,Singapore,0,0,178,3,701.26,0.472,Gaming,Success,0,0
+T100103,C1005,transfer,Credit Card,Mobile,Chrome,1661.29,20,Thu,UK,0,0,226,216,1364.74,0.046,Gaming,Success,1,0
+T100104,C1142,payment,Credit Card,Mobile,Opera,797.38,11,Thu,UK,1,0,387,229,812.67,0.14,Electronics,Success,0,1
+T100105,C1103,purchase,Wallet,Desktop,Chrome,1337.83,15,Tue,Canada,0,0,128,336,751.74,0.277,Travel,Success,1,0
+T100106,C1027,debit,Debit Card,Desktop,Chrome,413.94,23,Thu,Canada,0,0,199,186,167.16,0.972,Gaming,Success,1,0
+T100107,C1137,transfer,Wallet,Tablet,Chrome,589.83,11,Wed,Singapore,0,0,776,55,988.6,0.331,E-commerce,Success,0,0
+T100108,C1015,payment,Debit Card,Tablet,Firefox,1793.19,14,Mon,USA,1,0,379,388,1234.93,0.482,Electronics,Success,0,0
+T100109,C1090,debit,Debit Card,Tablet,Firefox,30.94,9,Thu,Singapore,0,1,1811,376,576.83,0.196,Fashion,Success,1,0
+T100110,C1042,purchase,Credit Card,Desktop,Chrome,175.59,6,Sat,USA,0,0,158,254,1165.66,0.611,Food,Success,1,0
+T100111,C1124,debit,Net Banking,Desktop,Opera,419.73,19,Mon,UK,0,0,1709,24,1447.07,0.281,Electronics,Success,0,0
+T100112,C1063,payment,UPI,Desktop,Edge,57.93,4,Tue,India,0,0,661,162,313.61,0.207,Food,Failed,1,0
+T100113,C1096,debit,Credit Card,Desktop,Edge,366.96,0,Sat,Canada,0,0,1892,158,789.76,0.517,Travel,Success,1,0
+T100114,C1052,cash_out,Credit Card,Desktop,Safari,1168.17,16,Mon,USA,0,1,1521,82,437.84,0.006,Food,Failed,0,0
+T100115,C1096,debit,Net Banking,Desktop,Opera,845.74,2,Sat,Singapore,0,0,779,403,1191.35,0.008,Travel,Success,1,0
+T100116,C1132,transfer,UPI,Desktop,Firefox,1785.88,12,Tue,UK,0,0,383,159,870.61,0.219,E-commerce,Pending,0,0
+T100117,C1143,transfer,Wallet,Tablet,Chrome,1635.8,13,Wed,USA,0,0,790,188,955.53,0.037,Food,Success,1,0
+T100118,C1029,cash_out,Wallet,Tablet,Safari,686.93,23,Tue,Singapore,0,0,1726,60,1198.89,0.108,Electronics,Success,0,1
+T100119,C1036,payment,Credit Card,Tablet,Edge,522.55,17,Tue,Canada,0,0,169,403,600,0.339,Travel,Success,1,0
+T100120,C1013,transfer,UPI,Tablet,Firefox,762.49,3,Sat,Canada,0,0,360,305,1373.48,0.803,Electronics,Success,0,0
+T100121,C1071,purchase,Credit Card,Desktop,Firefox,1182.64,17,Sun,Germany,0,0,1945,319,804.21,0.572,Gaming,Success,1,0
+T100122,C1086,transfer,Debit Card,Mobile,Chrome,539.79,4,Fri,India,0,0,1321,366,245.35,0.513,Travel,Success,0,0
+T100123,C1028,transfer,Credit Card,Desktop,Edge,1250.18,15,Thu,Germany,0,0,1321,211,1046.89,0.293,Food,Success,1,0
+T100124,C1066,payment,Credit Card,Mobile,Opera,821.78,0,Thu,UK,0,0,901,406,1191.96,0.932,Travel,Success,1,0
+T100125,C1045,debit,Wallet,Tablet,Firefox,1106.33,20,Wed,USA,0,0,1259,152,481.97,0.397,Electronics,Success,1,0
+T100126,C1062,transfer,Wallet,Desktop,Chrome,875.07,13,Wed,UK,0,1,532,109,1287.2,0.087,E-commerce,Success,1,0
+T100127,C1134,cash_out,Wallet,Tablet,Opera,592.46,14,Thu,Singapore,1,0,531,76,1360.15,0.617,Travel,Pending,1,0
+T100128,C1028,debit,Debit Card,Desktop,Edge,1897.16,8,Fri,Canada,0,1,792,30,422.59,0.114,Food,Success,1,0
+T100129,C1028,purchase,Wallet,Tablet,Firefox,1528.39,14,Thu,Germany,0,0,282,314,1475.45,0.345,Gaming,Pending,1,1
+T100130,C1108,payment,UPI,Mobile,Opera,284.53,16,Sun,Germany,0,0,945,486,219.66,0.507,Fashion,Success,1,0
+T100131,C1044,purchase,Net Banking,Mobile,Opera,1737.59,23,Fri,Germany,0,0,1435,117,311,0.874,E-commerce,Success,1,0
+T100132,C1084,debit,UPI,Mobile,Opera,977.43,3,Wed,UK,0,0,192,415,284.5,0.494,Gaming,Success,0,0
+T100133,C1030,debit,UPI,Desktop,Firefox,1789.63,11,Mon,Canada,0,0,1698,356,1342.04,0.702,Travel,Success,0,0
+T100134,C1075,debit,Wallet,Mobile,Firefox,1600.71,4,Sat,USA,0,0,497,192,984.9,0.993,Electronics,Success,1,0
+T100135,C1128,purchase,Net Banking,Desktop,Safari,853.3,4,Sun,Singapore,0,0,1860,19,236.64,0.131,Electronics,Success,0,0
+T100136,C1092,debit,Net Banking,Mobile,Edge,49.83,10,Sun,USA,0,0,855,432,666.08,0.275,Food,Success,1,0
+T100137,C1129,purchase,Net Banking,Mobile,Chrome,541.01,5,Wed,UK,0,0,133,173,926.79,0.395,Electronics,Pending,1,0
+T100138,C1121,debit,Debit Card,Desktop,Opera,1085.56,6,Wed,Singapore,1,0,994,228,134.36,0.422,E-commerce,Success,0,0
+T100139,C1027,cash_out,Wallet,Desktop,Safari,1268.79,23,Tue,Germany,0,0,1659,350,1324.8,0.411,Electronics,Success,1,0
+T100140,C1121,debit,Net Banking,Mobile,Chrome,519.49,13,Sun,India,1,0,799,183,1207.37,0.908,Food,Success,1,1
+T100141,C1116,purchase,Debit Card,Desktop,Safari,283.02,23,Tue,UK,0,0,423,113,762.76,0.714,Fashion,Success,0,0
+T100142,C1003,transfer,Credit Card,Mobile,Firefox,1670.69,10,Tue,UK,0,0,1758,183,1451.02,0.608,Travel,Success,0,0
+T100143,C1103,debit,Credit Card,Desktop,Opera,1968.88,12,Sat,Canada,0,1,1205,481,632.46,0.309,Travel,Success,1,0
+T100144,C1137,transfer,Debit Card,Tablet,Chrome,1053.75,1,Tue,USA,0,0,1321,146,1476.32,0.824,Electronics,Success,0,0
+T100145,C1062,cash_out,Debit Card,Tablet,Chrome,347.5,6,Fri,UK,1,0,1468,319,1005.2,0.955,Gaming,Success,0,1
+T100146,C1051,payment,Wallet,Tablet,Chrome,548.25,19,Thu,UK,0,1,695,116,955.66,0.821,Travel,Success,1,0
+T100147,C1059,cash_out,Wallet,Tablet,Chrome,41.69,3,Mon,Germany,1,0,122,113,257.27,0.002,Fashion,Success,0,0
+T100148,C1118,debit,Credit Card,Tablet,Chrome,1829.03,7,Wed,Germany,0,0,897,251,1324.07,0.636,Electronics,Failed,0,0
+T100149,C1096,transfer,Net Banking,Mobile,Safari,239.91,19,Fri,Singapore,1,0,1950,476,646.96,0.051,Food,Success,1,0
+T100150,C1113,transfer,Credit Card,Tablet,Opera,1155.15,21,Mon,India,0,0,131,251,251.73,0.258,Fashion,Success,0,0
+T100151,C1062,purchase,Net Banking,Tablet,Firefox,551.74,20,Sun,Canada,0,0,1577,303,28.79,0.06,Electronics,Success,0,0
+T100152,C1052,transfer,Net Banking,Tablet,Firefox,1110.59,18,Sun,India,0,0,1255,459,844.04,0.604,Fashion,Failed,1,0
+T100153,C1012,purchase,Wallet,Tablet,Firefox,1304.58,12,Sun,Singapore,0,0,1664,313,795.83,0.687,Travel,Success,1,0
+T100154,C1039,payment,UPI,Desktop,Firefox,1660.33,13,Fri,Germany,0,0,48,118,1081.84,0.114,Food,Success,1,1
+T100155,C1130,debit,UPI,Mobile,Safari,416.81,9,Fri,USA,0,1,506,301,1336.48,0.384,Electronics,Success,0,0
+T100156,C1131,purchase,Debit Card,Tablet,Edge,26.94,10,Wed,Germany,1,0,789,161,128.32,0.456,E-commerce,Success,1,0
+T100157,C1113,payment,Wallet,Tablet,Opera,278.09,1,Thu,Canada,0,0,1266,401,1099.93,0.369,Food,Success,1,0
+T100158,C1101,transfer,Net Banking,Tablet,Chrome,1800.54,8,Tue,Germany,0,0,952,198,289.24,0.121,E-commerce,Success,0,0
+T100159,C1113,transfer,UPI,Mobile,Edge,1748.41,16,Sun,Canada,0,0,1563,260,1288.68,0.419,Fashion,Success,1,1
+T100160,C1081,payment,Net Banking,Desktop,Firefox,1196.84,2,Sat,Canada,0,0,158,148,1230.4,0.751,Gaming,Success,1,0
+T100161,C1113,transfer,UPI,Mobile,Edge,1203.03,23,Thu,Canada,0,0,1430,240,815.78,0.071,Food,Success,1,0
+T100162,C1002,payment,UPI,Desktop,Opera,1331.75,5,Sat,Singapore,0,0,1031,47,1068.26,0.08,Fashion,Success,1,0
+T100163,C1130,purchase,UPI,Tablet,Chrome,354.87,4,Wed,Canada,0,0,670,475,478.38,0.355,E-commerce,Success,0,0
+T100164,C1054,purchase,Wallet,Tablet,Chrome,1829.25,4,Wed,Canada,0,0,1671,399,712.04,0.942,Travel,Success,1,0
+T100165,C1087,payment,Credit Card,Mobile,Opera,840.45,21,Wed,USA,0,0,1937,198,1234.24,0.669,Travel,Failed,1,0
+T100166,C1129,purchase,Net Banking,Mobile,Opera,769.36,14,Mon,India,0,0,311,47,694.31,0.679,Gaming,Success,0,0
+T100167,C1147,purchase,Wallet,Desktop,Firefox,1040.24,22,Sat,UK,0,0,1393,78,543.12,0.362,Food,Success,1,0
+T100168,C1126,purchase,Wallet,Desktop,Chrome,98.7,16,Thu,India,0,0,247,124,746.38,0.594,Food,Success,0,0
+T100169,C1130,cash_out,Wallet,Mobile,Edge,336.74,8,Thu,Canada,0,0,656,75,1244.09,0.01,Food,Success,0,0
+T100170,C1053,debit,Wallet,Desktop,Safari,1477.38,2,Fri,USA,0,0,672,359,509.46,0.636,Fashion,Success,0,1
+T100171,C1068,transfer,Wallet,Mobile,Safari,170.18,19,Fri,Germany,0,0,245,137,268.9,0.913,Gaming,Success,1,0
+T100172,C1123,cash_out,Debit Card,Desktop,Opera,1208.29,16,Sun,USA,1,0,1769,90,1070.9,0.613,Food,Success,0,0
+T100173,C1145,purchase,Net Banking,Mobile,Firefox,494.47,9,Fri,Canada,0,0,212,400,1240.71,0.874,Fashion,Success,0,0
+T100174,C1038,payment,Wallet,Mobile,Safari,781.64,2,Wed,USA,1,0,265,325,159.95,0.724,Travel,Success,0,0
+T100175,C1024,purchase,Net Banking,Mobile,Chrome,580.94,17,Thu,USA,0,0,607,61,367.41,0.121,E-commerce,Success,1,0
+T100176,C1069,debit,Debit Card,Desktop,Opera,714.57,17,Sat,Canada,0,0,671,138,221.54,0.902,Fashion,Success,1,1
+T100177,C1116,purchase,Debit Card,Desktop,Edge,1439.5,16,Wed,Singapore,0,0,244,50,528.43,0.066,Travel,Success,1,0
+T100178,C1098,payment,Net Banking,Desktop,Opera,597.76,23,Mon,USA,1,0,1378,259,681.02,0.534,Travel,Success,1,0
+T100179,C1139,debit,UPI,Mobile,Edge,1134.98,2,Fri,UK,0,0,543,461,1125.75,0.142,E-commerce,Success,1,0
+T100180,C1144,purchase,Credit Card,Desktop,Opera,954.72,2,Wed,UK,1,0,869,107,980.21,0.012,Travel,Success,1,0
+T100181,C1097,debit,UPI,Desktop,Opera,1329.02,5,Wed,USA,1,0,1830,113,935.18,0.422,Gaming,Success,1,0
+T100182,C1124,transfer,UPI,Mobile,Opera,1873.98,12,Mon,Singapore,0,1,1814,350,535.04,0.295,E-commerce,Success,0,0
+T100183,C1070,transfer,UPI,Tablet,Edge,1466.48,23,Tue,Germany,0,0,1499,254,1263.76,0.486,Travel,Success,0,0
+T100184,C1093,purchase,Wallet,Mobile,Edge,433.81,14,Thu,Canada,0,1,779,118,712.22,0.577,Electronics,Success,0,0
+T100185,C1003,debit,Debit Card,Desktop,Opera,67.21,8,Sat,UK,0,0,550,493,1468.87,0.044,Fashion,Pending,0,0
+T100186,C1148,payment,UPI,Mobile,Safari,528.22,3,Sun,Germany,1,0,222,198,954.87,0.123,Travel,Success,1,0
+T100187,C1147,purchase,Debit Card,Tablet,Firefox,1192.18,13,Tue,USA,1,0,472,337,198.13,0.559,Gaming,Success,0,0
+T100188,C1090,transfer,Net Banking,Mobile,Firefox,107.59,4,Fri,Germany,0,0,445,365,1017.5,0.343,Food,Success,0,0
+T100189,C1147,transfer,Credit Card,Desktop,Firefox,995.25,1,Wed,India,0,0,292,51,494.4,0.729,Travel,Success,0,0
+T100190,C1148,purchase,Net Banking,Tablet,Edge,1195.7,10,Mon,UK,0,0,1595,245,1032.63,0.652,Food,Success,0,0
+T100191,C1096,debit,Net Banking,Desktop,Edge,671.82,8,Mon,USA,0,0,1640,403,113.77,0.846,Electronics,Success,1,0
+T100192,C1052,transfer,Wallet,Tablet,Safari,1542.97,23,Thu,Canada,1,0,1496,426,270.57,0.692,Travel,Pending,1,0
+T100193,C1128,debit,Credit Card,Tablet,Firefox,217.66,2,Tue,Singapore,0,0,1440,35,1285.05,0.43,E-commerce,Success,1,0
+T100194,C1039,transfer,Net Banking,Mobile,Firefox,154.9,8,Sun,USA,0,0,97,302,348.5,0.673,Food,Success,0,0
+T100195,C1082,transfer,Net Banking,Mobile,Opera,1457.74,2,Thu,Canada,0,0,1077,410,1257.19,0.275,Electronics,Success,1,0
+T100196,C1104,cash_out,Credit Card,Desktop,Edge,993.51,1,Wed,Singapore,0,0,470,499,426.12,0.306,E-commerce,Success,0,0
+T100197,C1129,transfer,Credit Card,Mobile,Firefox,1378.36,11,Thu,Singapore,0,0,287,69,967.89,0.789,E-commerce,Success,1,0
+T100198,C1011,payment,Net Banking,Mobile,Safari,872.48,9,Sat,USA,0,0,1716,349,1044.28,0.446,E-commerce,Success,1,0
+T100199,C1042,purchase,Credit Card,Tablet,Safari,496.57,8,Mon,Germany,0,0,430,320,773.86,0.798,E-commerce,Success,1,0
