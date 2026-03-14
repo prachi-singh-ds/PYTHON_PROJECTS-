@@ -191,7 +191,7 @@ These insights can help financial institutions improve fraud detection systems a
 
 Clone this repository
 
-git clone https://github.com/yourusername/online-payment-fraud-detection.git
+https://github.com/prachi-singh-ds/PYTHON_PROJECTS-/tree/main/EDA_PROJECT
 
 Install required libraries
 
